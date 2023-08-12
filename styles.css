@@ -1,0 +1,41 @@
+body {
+
+    background-color: black;
+    color: white;
+}
+
+img {
+    background-color: rgba(128, 128, 128, 0.29);
+    width: 200px;
+    height: 200;
+    border-radius: 100px;
+    display: block;
+    margin: auto;
+}
+
+body {
+    background-image: url("wall.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+
+    font-size: 40px;
+    font-weight: normal;
+}
+
+
+.container #password {
+
+    display: block;
+    margin: auto;
+}
+
+.container {
+    padding-top: 200px;
+    width: 250;
+
+}
